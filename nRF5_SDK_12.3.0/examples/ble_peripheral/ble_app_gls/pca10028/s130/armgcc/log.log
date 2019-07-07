@@ -1,0 +1,54 @@
+2019-Apr-26 00:57:38  --------------------------------------------------------------------------------
+2019-Apr-26 00:57:38  nrfjprog --eraseall -f nrf51 --log
+2019-Apr-26 00:57:38  nrfjprog version 9.8.1
+2019-Apr-26 00:57:38  --------------------------------------------------------------------------------
+2019-Apr-26 00:57:38  nRF_open_dll
+2019-Apr-26 00:57:38  . nRF51_open_dll
+2019-Apr-26 00:57:38  . . nRF51_dll_version
+2019-Apr-26 00:57:38  nRF_enum_emu_snr
+2019-Apr-26 00:57:38  . nRF51_enum_emu_snr
+2019-Apr-26 00:57:38  . . nRF51_enum_emu_snr
+2019-Apr-26 00:57:38  nRF_enum_emu_snr
+2019-Apr-26 00:57:38  . nRF51_enum_emu_snr
+2019-Apr-26 00:57:38  . . nRF51_enum_emu_snr
+2019-Apr-26 00:57:38  nRF_connect_to_emu_with_snr
+2019-Apr-26 00:57:38  . nRF51_connect_to_emu_with_snr
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu
+2019-Apr-26 00:57:38  . . nRF51_enum_emu_snr
+2019-Apr-26 00:57:38  . . nRF51_connect_to_emu_with_snr
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Out of sync , resynchronizing...
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	   ***** Error: 
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	Cannot connect to J-Link via USB.
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	  returns "Cannot connect to J-Link via USB."
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLink:	 (0008ms, 0009ms total)  
+2019-Apr-26 00:57:38  . . . nRF51_connect_to_emu_without_snr:	JLinkARM.dll OpenEx returned error 'Cannot connect to J-Link via USB.'.
+
+2019-Apr-26 00:57:38  nRF_close_dll
+2019-Apr-26 00:57:38  . nRF51_close_dll
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu:	JLink:	T1298D5C0 000:010 
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu:	JLink:	JLINK_IsOpen()
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu:	JLink:	  returns 0x00
+2019-Apr-26 00:57:38  . . nRF51_is_connected_to_emu:	JLink:	 (0000ms, 0009ms total)  
+2019-Apr-26 01:22:05  --------------------------------------------------------------------------------
+2019-Apr-26 01:22:05  nrfjprog --eraseall -f nrf51 --log
+2019-Apr-26 01:22:05  nrfjprog version 9.8.1
+2019-Apr-26 01:22:05  --------------------------------------------------------------------------------
+2019-Apr-26 01:22:05  nRF_open_dll
+2019-Apr-26 01:22:05  . nRF51_open_dll
+2019-Apr-26 01:22:05  . . nRF51_dll_version
+2019-Apr-26 01:22:05  nRF_enum_emu_snr
+2019-Apr-26 01:22:05  . nRF51_enum_emu_snr
+2019-Apr-26 01:22:05  . . nRF51_enum_emu_snr
+2019-Apr-26 01:22:05  nRF_enum_emu_snr
+2019-Apr-26 01:22:05  . nRF51_enum_emu_snr
+2019-Apr-26 01:22:05  . . nRF51_enum_emu_snr
+2019-Apr-26 01:22:05  nRF_close_dll
+2019-Apr-26 01:22:05  . nRF51_close_dll
+2019-Apr-26 01:22:05  . . nRF51_is_connected_to_emu
